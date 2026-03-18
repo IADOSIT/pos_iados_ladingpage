@@ -1,7 +1,7 @@
 version: '3.8'
 
 services:
-  landing-page-pos:
+  pos-landing-page:
     build: .
     container_name: pos-landing-page
     ports:
